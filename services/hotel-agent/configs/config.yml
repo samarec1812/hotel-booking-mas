@@ -1,0 +1,8 @@
+port: "8999"
+
+db:
+  username: "admin"
+  password: "qwerty"
+  host:  "localhost"
+  port: "27017"
+  dbname: "booking_db"

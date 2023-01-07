@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="booking-agent-db@localhost" uuid="54efceed-c1d3-40e8-aa2f-70162f7ad611">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5436/booking-agent-db</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="@localhost" uuid="e782a1fc-2533-43c3-9713-19025c0f2e76">
+      <driver-ref>mongo</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.dbschema.MongoJdbcDriver</jdbc-driver>
+      <jdbc-url>mongodb://localhost:27017</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="bank-agent-db@localhost" uuid="b66fc1ff-14eb-425a-a479-9862c4edb370">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5437/bank-agent-db</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>

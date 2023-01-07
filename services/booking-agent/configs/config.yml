@@ -1,0 +1,9 @@
+port: "8999"
+
+db:
+  username: "admin"
+  password: "qwerty"
+  host:  "localhost"
+  port: "5436"
+  dbname: "booking-agent-db"
+  sslmode: "disable"

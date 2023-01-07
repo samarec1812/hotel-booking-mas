@@ -1,0 +1,9 @@
+port: "8082"
+
+db:
+  username: "admin"
+  password: "qwerty"
+  host:  "localhost"
+  port: "5437"
+  dbname: "bank-agent-db"
+  sslmode: "disable"
